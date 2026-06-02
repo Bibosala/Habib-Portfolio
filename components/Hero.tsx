@@ -34,11 +34,9 @@ export default function Hero() {
             </button>
           </a>
 
-          <a href="/resume.pdf" download>
-            <button className="border border-gray-600 hover:border-blue-500 px-8 py-4 rounded-full transition">
-              Download CV
-            </button>
-          </a>
+         <a href="/Resume.pdf" download className="bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-full font-semibold">
+          Download CV
+        </a>
 
         </div>
 
