@@ -2,7 +2,7 @@ const projects = [
   {
     title: 'Portfolio Website',
     desc: 'Modern responsive portfolio website using Next.js.',
-    image: '/Projects/portfolio.png',
+    image: '/Projects/portfolio.PNG',
   },
   {
     title: 'Compliance Management System',
