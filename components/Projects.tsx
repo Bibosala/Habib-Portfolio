@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'Banking Ticket System',
     desc: 'Incident management system for banking operations.',
-    image: '/Projects/banking.png',
+    image: '/Projects/bims.PNG',
   },
 ]
 
